@@ -40,6 +40,5 @@ Create a scientifically accurate, reproducible, and extensible timeline of the U
 
   - Solar System formation
 
-Recombination
 
-Cosmic Microwave Background (CMB)
+
